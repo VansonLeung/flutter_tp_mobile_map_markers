@@ -26,7 +26,7 @@ Android: Google Maps
 
 
 
-https://github.com/VansonLeung/flutter_tp_mobile_map_markers/assets/1129695/0c0d4c3b-713d-41bf-8e46-748c1bc3e31b
+https://github.com/VansonLeung/flutter_tp_mobile_map_markers/assets/1129695/b579e59b-2e16-4973-9535-d85b4eb1d289
 
 
 
